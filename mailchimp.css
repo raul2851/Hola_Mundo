@@ -23,6 +23,12 @@
     column-count: 2;
 }
 
+.texto {
+    position: relative;
+    left: -15%;
+
+}
+
 .tres {
     position: absolute;
     left: 25%;
