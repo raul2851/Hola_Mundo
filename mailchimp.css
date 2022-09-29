@@ -2,3 +2,29 @@
     width: 250px;
 }
 
+.uno {
+    position: absolute;
+    left: 15%;
+    top: 1%;
+}
+
+.dos {
+    position: absolute;
+    left: 15%;
+    top: 18%;
+}
+
+.required {
+    position: absolute;
+    left: 15%;
+}
+
+.columna {
+    column-count: 2;
+}
+
+.tres {
+    position: absolute;
+    left: 25%;
+    top: 65%;
+}
