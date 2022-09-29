@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+.uno {
+    display: flex;
+    justify-content: center;
+}
+
+.dos {
+    display: inline-flex;
+    position: absolute;
+    top: 2%;
+    left: 20%;
+}
+
+.texto {
+    position: absolute;
+    left: 130%;
+    color: gray;
+}
+
+.tres {
+    position: absolute;
+    top: 7%;
+    left: 20%;
+}
+
+.texto2 {
+    color: red;
+}
+
+.cuatro {
+    column-count: 3;
+    position: absolute;
+    top: 15%;
+    left: 27%;
+}
