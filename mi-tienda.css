@@ -31,8 +31,8 @@ h1 {
 }
 
 .cuatro {
-    column-count: 3;
-    position: absolute;
+    column-count: 2;
+    position: relative;
     top: 15%;
     left: 27%;
 }
