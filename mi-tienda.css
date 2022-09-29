@@ -36,3 +36,10 @@ h1 {
     top: 15%;
     left: 27%;
 }
+
+.cinco {
+    position: absolute;
+    top: 85%;
+    text-align: center;
+    left: 41%;
+}
