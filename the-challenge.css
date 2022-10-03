@@ -1,0 +1,102 @@
+header {
+    background-color: #541554;
+}
+
+body {
+    margin: 0;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    max-width: 100%;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: Slack-Circular-Pro, "Helvetica Neue", Helvetica, "Segoe UI", Tahoma, Arial, sans-serif;
+}
+
+.div {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-indent: 20px;
+    margin-left: 18%;
+}
+
+.p {
+    margin-left: 8%;
+}
+
+.input {
+    position: absolute;
+    left: 56%;
+    top: 1%;
+}
+
+.button1 {
+    background-color: #541554;
+    color: white;
+    border-color: white;
+    border-radius: 4px;
+    text-transform: uppercase;
+    width: 320px;
+    height: 45px;
+    margin-right: 22px;
+
+}
+
+.button2 {
+    background-color: white;
+    color: #541554;
+    border-color: white;
+    border-radius: 4px;
+    text-transform: uppercase;
+    width: 200px;
+    height: 45px;
+}
+
+.title {
+    color: white;
+    margin-left: 17%;
+    font-size: 26px;
+}
+
+.p2 {
+    color: white;
+    margin-left: 17%;
+    font-size: 18px;
+}
+
+.input1 {
+    margin-left: 17%
+}
+
+.button3 {
+    border-radius: 4px;
+    text-transform: uppercase;
+    width: 655px;
+    height: 50px;
+    color: #541554;
+    border: none;
+}
+
+.button4 {
+    color: white;
+    background-color: #4285f4;
+    border-radius: 4px;
+    text-transform: uppercase;
+    width: 655px;
+    height: 50px;
+    border: none;
+}
+
+.video {
+    margin-top: -29%;
+    margin-left: 55%;
+}
+
+.p3 {
+    color: white;
+    margin-left: 17%;
+    margin-top: -11%;
+    font-size: 21px;
+}
