@@ -18,12 +18,12 @@ body {
     color: white;
     display: flex;
     align-items: center;
-    text-indent: 20px;
+    text-indent: 25px;
     margin-left: 18%;
 }
 
 .p {
-    margin-left: 8%;
+    margin-left: 6%;
 }
 
 .input {
