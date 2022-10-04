@@ -46,7 +46,7 @@ console.log("soy",  firstName,  "  ", lastName , "  ", " tengo ", age, " 24 año
 
 const toy1 = { name: 'Buss myYear', price: 19 };
 const toy2 = { name: 'Rallo mcKing', price: 29 };
-console.log( toy1.name + toy2.name + (toy1.price + toy2.price) );
+console.log( toy1.price + toy2.price );
 
 //1.4 Dado el siguiente javascript, actualiza el valor de la variable globalBasePrice a 25000 
 //y actualiza la propiedad finalPrice de todos los coches con el valor de su propiedad 
@@ -61,8 +61,9 @@ const car2 = { name: 'Chevrolet Corbina', basePrice: 70000, finalPrice: 80000 };
 
 globalBasePrice = 25000;
 
-car1.finalPrice = globalBasePrice + car1.basePrice;
-car2.finalPrice = globalBasePrice + car2.basePrice;
+car1.finalPrice = car1.basePrice + globalBasePrice;
+car2.finalPrice = car2.basePrice + globalBasePrice;
+console.log(car1,car2)
 
 // 3: Operadores
 
