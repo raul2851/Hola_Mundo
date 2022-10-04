@@ -37,9 +37,7 @@ var age = 24;
 //Muestralos por consola de esta forma: 
 //'Soy Jon Snow, tengo 24 años y me gustan los lobos.'
 
-console.log("soy",  firstName,  "  ", lastName , "  ", " tengo ", age, " 24 años y me gustan los lobos. "
-
-);
+console.log("soy",  firstName,  "  ", lastName , "  ", " tengo ", age, " 24 años y me gustan los lobos. ");
 
 //1.3 Dado el siguiente javascript, imprime con un console.log la suma del precio de
 //ambos juguetes.
